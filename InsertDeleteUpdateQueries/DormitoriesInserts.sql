@@ -1,0 +1,11 @@
+INSERT INTO university_db."Dormitories" (dormitory_id, postal_code, street, building) VALUES (1, 141701, 'Первомайская', '34/5 к1');
+INSERT INTO university_db."Dormitories" (dormitory_id, postal_code, street, building) VALUES (4, 141701, 'Московское шоссе', '25 к4');
+INSERT INTO university_db."Dormitories" (dormitory_id, postal_code, street, building) VALUES (2, 141701, 'Первомайская', '32 к2');
+INSERT INTO university_db."Dormitories" (dormitory_id, postal_code, street, building) VALUES (3, 141701, 'Первомайская', '30 к3');
+INSERT INTO university_db."Dormitories" (dormitory_id, postal_code, street, building) VALUES (6, 141701, 'Московское шоссе', '21 к6');
+INSERT INTO university_db."Dormitories" (dormitory_id, postal_code, street, building) VALUES (7, 141701, 'Первомайская', '30 к7');
+INSERT INTO university_db."Dormitories" (dormitory_id, postal_code, street, building) VALUES (8, 141701, 'Первомайская', '30 к8');
+INSERT INTO university_db."Dormitories" (dormitory_id, postal_code, street, building) VALUES (9, 141701, 'Первомайская', '28а');
+INSERT INTO university_db."Dormitories" (dormitory_id, postal_code, street, building) VALUES (10, 141701, 'Первомайская', '32 к4');
+INSERT INTO university_db."Dormitories" (dormitory_id, postal_code, street, building) VALUES (11, 141701, 'Первомайская', '32 к3');
+INSERT INTO university_db."Dormitories" (dormitory_id, postal_code, street, building) VALUES (12, 141701, 'Институтский переулок', '6а');
